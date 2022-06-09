@@ -3,12 +3,12 @@ We are excited to create incredible works with you. Members of this team are foc
 
 # Developer Guide
 
-Core Principles
+### Core Principles
 1. Make it Beautiful
 2. Make it Useful
 3. Make it Fun
 
-Best Practices
+### Best Practices
 1. Keep Scope Tight.  Global Variables to a Minimum
 2. Write Comments on your code often.  You are working with others.
 3. Use abstraction to build easy-to-read reusable functions/components ( countToThree(), clearList(), filterUsers() )
@@ -16,7 +16,7 @@ Best Practices
 5. Keep the responsibilities of the code separate. Don't mix multiple tasks on one file.
 6. Use pull requests.  Do not commit to the main branch unless you are explicitly instructed to.
 
-Convention
+### Convention
 When to use camelCase:
 - naming functions
 
