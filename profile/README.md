@@ -1,5 +1,5 @@
 # Welcome!
-We are excited to create incredible works with you. Members of this team are focused and engaged, working towards a common goal with shared values, complementary skill-sets, and open communication. Here, no question is off-limits.  Do not be afraid to ask if you are unsure of something. The only wrong question is the question not asked.
+We are excited to create awesome stuff with you. Members of this team are focused and engaged, working towards a common goal with shared values, complementary skill-sets, and open communication. Here, no question is off-limits.  Do not be afraid to ask if you are unsure of something. The only wrong question is the question not asked.
 
 # Developer Guide
 
