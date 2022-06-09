@@ -8,10 +8,12 @@ Core Principles
 2. Make it Useful
 3. Make it Fun
 
-React/Javascript Best Practices
+Best Practices
 1. Keep Scope Tight.  Global Variables to a Minimum
 2. Write Comments on your code often.  You are working with others.
 3. Use abstraction to build easy-to-read reusable functions/components ( countToThree(), clearList(), filterUsers() )
+4. Triple Check code that deals directly with the database. Use a service like Postman to verify your APIs are functioning as you expect before connecting them up to the live database.
+5. Keep the responsibilities of the code separate. Don't mix multiple tasks on one file.
 
 When to use camelCase:
 - naming functions
