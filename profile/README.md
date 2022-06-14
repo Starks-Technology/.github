@@ -14,7 +14,7 @@ We are excited to create awesome stuff with you. While working with this team, o
 3. Use abstraction to build easy-to-read reusable functions/components ( countToThree(), clearList(), filterUsers() )
 4. Triple Check code that deals directly with the database. Use a service like Postman to verify your APIs are functioning as you expect before connecting them up to the live database.
 5. Keep the responsibilities of the code separate. Don't mix multiple tasks on one file.
-6. Use pull requests.  Do not commit to the main branch unless you are explicitly instructed to.
+6. Use pull requests/branching.  Do not commit to the main branch unless you are explicitly instructed to.
 
 ### Convention
 When to use camelCase:
