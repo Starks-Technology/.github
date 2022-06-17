@@ -163,7 +163,7 @@ Please fork the repo and create a pull request. You can also simply open an issu
 <!-- CONTACT -->
 ## Contact
 
-Garrett Starks - [@twitter_handle](https://twitter.com/GarrettStarks) - garrett@starks.technology
+Garrett Starks - [@GarrettStarks](https://twitter.com/GarrettStarks) - garrett@starks.technology
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
@@ -184,5 +184,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/garrett-starks-b92132a7/
 [product-screenshot]: images/screenshot.png
