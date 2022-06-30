@@ -17,11 +17,14 @@ We are excited to create awesome stuff with you. While working with this team, o
 6. Use pull requests/branching.  Do not commit to the main branch unless you are explicitly instructed to.
 
 ### Convention
+When to use lowercase:
+- folders
+
 When to use camelCase:
-- naming functions
+- functions
 
 When to use CapitalCase:
-- naming screens
+- screens
 
 
 Let's make something great!
