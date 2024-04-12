@@ -1,5 +1,5 @@
 # Welcome!
-We are excited to create awesome stuff with you. While working with this team, open communication is HUGE. No question is off-limits here.  Do not be afraid to ask if you are unsure of something. The only wrong question is the question not asked.
+We are excited to create awesome stuff with you. While working with this team, no question is off-limits.  Do not be afraid to ask if you are unsure of something. The only wrong question is the question not asked.
 
 # Developer Guide
 
